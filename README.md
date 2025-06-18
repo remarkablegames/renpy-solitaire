@@ -1,28 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/remarkablegames/renpy-template/master/game/gui/window_icon.png" alt="Renpy Template">
+  <img src="https://raw.githubusercontent.com/remarkablegames/renpy-solitaire/master/game/gui/window_icon.png" alt="Renpy Solitaire">
 </p>
 
-# Ren'Py Template
+# Ren'Py Solitaire
 
-![release](https://img.shields.io/github/v/release/remarkablegames/renpy-template)
-[![build](https://github.com/remarkablegames/renpy-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/renpy-template/actions/workflows/build.yml)
-[![lint](https://github.com/remarkablegames/renpy-template/actions/workflows/lint.yml/badge.svg)](https://github.com/remarkablegames/renpy-template/actions/workflows/lint.yml)
+![release](https://img.shields.io/github/v/release/remarkablegames/renpy-solitaire)
+[![build](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/build.yml)
+[![lint](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/lint.yml/badge.svg)](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/lint.yml)
 
-📖 Write visual novels with Ren'Py Template.
+🃏 Ren'Py [Solitaire](<https://wikipedia.org/wiki/Klondike_(solitaire)>) card game. See [Cardgame](https://www.renpy.org/wiki/renpy/Cardgame) or [Ren'Py Cardgame Engine](https://github.com/renpy/cardgame).
 
 Play the game on:
 
-- [remarkablegames](https://remarkablegames.org/renpy-template)
-
-## Credits
-
-### Art
-
-- [Uncle Mugen](https://lemmasoft.renai.us/forums/viewtopic.php?t=17302)
-
-### Audio
-
-- [Kenney](https://kenney.nl/assets/interface-sounds)
+- [remarkablegames](https://remarkablegames.org/renpy-solitaire)
 
 ## Prerequisites
 
@@ -49,25 +39,9 @@ renpy --version
 Clone the repository to the `Projects Directory`:
 
 ```sh
-git clone https://github.com/remarkablegames/renpy-template.git
-cd renpy-template
+git clone https://github.com/remarkablegames/renpy-solitaire.git
+cd renpy-solitaire
 ```
-
-Rename the project:
-
-```sh
-git grep -l 'Renpy Template' | xargs sed -i '' -e 's/Renpy Template/My Novel/g'
-```
-
-```sh
-git grep -l 'renpy-template' | xargs sed -i '' -e 's/renpy-template/my-novel/g'
-```
-
-Replace the assets:
-
-- [ ] `web-presplash.jpg`
-- [ ] `game/gui/main_menu.png`
-- [ ] `game/gui/window_icon.png`
 
 ## Run
 
