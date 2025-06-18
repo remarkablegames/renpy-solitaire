@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/remarkablegames/renpy-solitaire/master/game/gui/window_icon.png" alt="Renpy Solitaire">
+  <img src="https://raw.githubusercontent.com/remarkablegames/renpy-solitaire/master/game/images/card/53.png" alt="Renpy Solitaire">
 </p>
 
 # Ren'Py Solitaire
