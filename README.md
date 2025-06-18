@@ -4,7 +4,6 @@
 
 # Ren'Py Solitaire
 
-![release](https://img.shields.io/github/v/release/remarkablegames/renpy-solitaire)
 [![build](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/build.yml)
 [![lint](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/lint.yml/badge.svg)](https://github.com/remarkablegames/renpy-solitaire/actions/workflows/lint.yml)
 
